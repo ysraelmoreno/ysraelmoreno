@@ -1,8 +1,10 @@
 ## Ysrael Moreno
-😄 Hi! I'm a young dedicated developer in a search of a dream. A back-end developer on MadeiraMadeira, located in Brazil. 
+#### A back-end developer on MadeiraMadeira
+😄 Hi! I'm a young dedicated developer in a search of a dream.
 
 🔭 A big enthusiast of technology and education.
 
+> “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become.”
 <!--
 **ysraelmoreno/ysraelmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
