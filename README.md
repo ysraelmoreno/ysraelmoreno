@@ -3,6 +3,8 @@
 😄 Hi! I'm a young dedicated developer in a search of a dream.
 
 🔭 A big enthusiast of technology and education.
+
+I work with:
 * NodeJS
 * PHP
 * ReactJS
