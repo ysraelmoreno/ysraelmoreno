@@ -6,6 +6,8 @@
 
 I work with:
 * NodeJS
+* Typescript
+* Javascript
 * PHP
 * ReactJS
 * NextJS
