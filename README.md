@@ -27,6 +27,14 @@ I work with:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysraelmoreno&theme=dark&show_icons=true&layout=compact&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysraelmoreno&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+
 <!--
 **ysraelmoreno/ysraelmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
