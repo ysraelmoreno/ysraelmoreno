@@ -22,10 +22,10 @@
 </div>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysraelmoreno&theme=dark&show_icons=true&layout=compact&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysraelmoreno&theme=dracula&show_icons=true&layout=compact&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysraelmoreno&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysraelmoreno&layout=compact&theme=dracula" />
 </a>
 <!--
 **ysraelmoreno/ysraelmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
