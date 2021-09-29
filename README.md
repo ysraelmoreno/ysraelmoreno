@@ -4,6 +4,8 @@
 
 🖥 Developer | 🕹 Gamer | ⚽ Love sports
 
+🚀 Currently I'm working together with my team on the development of a Design System for the E-Commerce of MadeiraMadeira, working with ReactJS, Storybook and React Testing Library (Unit tests), and developing features to the new stack (NextJS) of the Website of my actual company.
+
 🔭 A big enthusiast of technology and education.
 “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become.”
 
@@ -27,6 +29,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysraelmoreno&layout=compact&theme=dracula" />
 </a>
+
 <!--
 **ysraelmoreno/ysraelmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
