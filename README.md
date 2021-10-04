@@ -6,6 +6,8 @@
 
 🚀 Currently I'm working together with my team on the development of a Design System for the E-Commerce of MadeiraMadeira, working with ReactJS, Storybook and React Testing Library (Unit tests), and developing features to the new stack (NextJS) of the Website of my actual company.
 
+📖 I want to make the world better, to help people on the first step of your carrer as a Developer, so I've been working on a [youtube project](https://www.youtube.com/channel/UCiOcjBUswTIyhg2bIbGnPdw)
+
 🔭 A big enthusiast of technology and education.
 “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become.”
 
