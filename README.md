@@ -29,10 +29,10 @@
 
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysraelmoreno&theme=dracula&show_icons=true&layout=compact&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysraelmoreno&theme=dracula&show_icons=true&layout=compact&hide=issues&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysraelmoreno&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysraelmoreno&layout=compact&theme=dracula&count_private=true" />
 </a>
 
 <!--
