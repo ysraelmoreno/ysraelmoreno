@@ -1,8 +1,11 @@
-## Ysrael Moreno
-#### A front-end developer on MadeiraMadeira
-😄 Hi! I'm a young dedicated developer in a search of a dream.
+ <h1>Hi, I'm Ysrael Moreno <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+ <img align="right" src="https://komarev.com/ghpvc/?username=ysraelmoreno">
 
-🖥 Developer | 🕹 Gamer | ⚽ Love sports
+<h3>I'm a young front-end developer in a search of a dream. </h3>
+
+<p>My self-taughtness, dedication and team work are my greatest skills</p>
+
+<strong>🖥 Developer | 🕹 Gamer | ⚽ Love sports</strong>
 
 🚀 Currently I'm working together with my team on the development of a Design System for the E-Commerce of MadeiraMadeira, working with ReactJS, Storybook and React Testing Library (Unit tests), and developing features to the new stack (NextJS) of the Website of my actual company.
 
