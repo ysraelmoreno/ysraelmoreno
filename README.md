@@ -4,6 +4,9 @@
 <h3>I'm a young front-end developer in a search of a dream. </h3>
 
 <p>My self-taughtness, dedication and team work are my greatest skills</p>
+<p>🤓 Learning about performance, ReactJS and NextJS</p>
+
+<hr>
 
 <strong>🖥 Developer | 🕹 Gamer | ⚽ Love sports</strong>
 
