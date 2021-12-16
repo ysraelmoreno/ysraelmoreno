@@ -15,7 +15,8 @@
 📖 I want to make the world better, to help people on the first step of your carrer as a Developer, so I've been working on a [youtube project](https://www.youtube.com/channel/UCiOcjBUswTIyhg2bIbGnPdw)
 
 🔭 A big enthusiast of technology and education.
-“Have the courage to follow your heart and intuition. They somehow already know what you truly want to become.”
+
+> “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become.”
 
 #### I like to work with:
 <div style="display: inline_block;">
