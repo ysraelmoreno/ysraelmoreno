@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍🚀 I'm currently working on BEES<br>🕵️ Studying about Micro Front End<br>👨‍🏫 Ask me about React and Front End Development
-
+👨‍🚀 I'm currently working on BEES<br>🕵️ Studying about Micro Front End and Web3<br>👨‍🏫 Ask me about React and Front End Development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysramrno) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oysraelmoreno) 
