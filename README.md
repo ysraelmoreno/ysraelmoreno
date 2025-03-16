@@ -1,5 +1,13 @@
 # 💫 About Me:
-👨‍🚀 I'm currently working on BEES<br>🕵️ Studying about Micro Front End and Web3<br>👨‍🏫 Ask me about React and Front End Development
+👨‍🚀 I'm currently working on BEES<br>🕵️ Studying about AI<br>👨‍🏫 Ask me about React and Front End Development
+
+Passionate about web development and learning through technology, I have been developing front-end applications since 2018.
+
+I started my career as a full stack developer, working on a user management platform for a company, developing the entire front and back-end of the system from scratch. I used technologies like React.js for the web application and NodeJS with Express for the back-end.
+
+In 2020, I found my passion in front-end development. I was involved in migrating a PHP application to a NextJS application, using strategies like SSG and SSR for efficient functioning of a furniture e-commerce application. I was one of the maintainers of a design system built using React.js, Stitches.js, and Radix-UI, handling versioning processes, deployment, pull requests, and issue management.
+
+Currently, I develop screens and features for a front-end application for bar and market owners worldwide, using NextJS and ReactJS. Additionally, I have also been involved in developing Android components for an internal design system using Kotlin.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysramrno) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oysraelmoreno) 
@@ -13,9 +21,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ysraelmoreno&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ysraelmoreno&icon=0&color=0)](https://visitcount.itsvg.in)
